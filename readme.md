@@ -1,2 +1,2 @@
 usage:
-python port_name
+python scope.pyc port_name
